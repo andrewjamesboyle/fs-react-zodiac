@@ -1,5 +1,3 @@
-// an array of zodiac objects
-
 export const zodiacSigns = [
   {
     name: 'Capricorn',
@@ -46,7 +44,7 @@ export const zodiacSigns = [
     dates: 'Oct 20 - Nov 20'
   },
   {
-    name: 'Sagitarius',
+    name: 'Sagittarius',
     dates: 'Nov 20 - Dec 20'
   },
 ];
