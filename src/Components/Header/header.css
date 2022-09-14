@@ -1,0 +1,13 @@
+header {
+    color: var(--color5);
+    height: 80px;
+    background-color: var(--color3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    background: rgba(255, 122, 89, 0.8);
+    font-family: fantasy;
+    font-size: 40px;
+  }
+  
