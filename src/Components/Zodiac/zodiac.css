@@ -1,0 +1,15 @@
+.zodiac {
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    color: var(--color1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 10px solid black;
+    background: rgba(255, 122, 89, 0.8);
+  }
+  

@@ -2,6 +2,7 @@ import React from 'react';
 import { zodiacSigns } from '../../data';
 import Zodiac from '../Zodiac/Zodiac';
 import background from '../../background.png';
+import './main.css';
 
 export default function Main() {
   return (
